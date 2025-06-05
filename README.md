@@ -29,7 +29,11 @@ This is an open theoretical exploration. If you are interested in contributing t
 
 ## 📘 Acknowledgments
 
-Portions of the theoretical structure, language drafting, and organizational design were developed with the assistance of [ChatGPT](https://openai.com/chatgpt) (OpenAI), acting as a collaborative ideation and writing partner under the direction of the primary author. All conceptual content and final editorial choices remain the responsibility of the author.
+This project is an evolving theoretical initiative and benefits from ongoing conversations, critiques, and contributions from diverse thinkers and collaborators.
 
-> **Co-authoring credit**:  
-> *Structural development support, writing assistance, and philosophical articulation by OpenAI's GPT-4o model.*
+- **OpenAI's ChatGPT (GPT-4o)** – Structural development support, philosophical articulation, and drafting assistance under the direction of the primary author.
+- **Contributors and Reviewers** – This space is reserved to acknowledge individuals who have contributed or will contribute to the advancement of Kineton Theory, whether through mathematical insights, conceptual discussions, feedback, or collaborative writing.
+
+If you have contributed or wish to collaborate, feel free to open a pull request or issue. All contributions—critical or constructive—are welcome and valued.
+
+> All conceptual content and editorial decisions remain the responsibility of the primary author.
