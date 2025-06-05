@@ -24,7 +24,7 @@
 ## 📤 Contributing
 
 This is an open theoretical exploration. If you are interested in contributing to the mathematical formalism, simulations, or philosophical foundations, feel free to open an issue or pull request.
-
+You can contact me at luojhui@gmail.com
 ---
 
 ## 📘 Acknowledgments
